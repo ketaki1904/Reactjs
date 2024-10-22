@@ -1,4 +1,4 @@
-Axios methhod to fetch the data
+//Axios methhod to fetch the data
 
 import React, { useState } from "react";
 import Navbartop from "./Navbartop";
