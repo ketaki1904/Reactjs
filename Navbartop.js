@@ -21,7 +21,8 @@ function Navbartop() {
                         <Link className="nav-link" to={'/Fire'}>Fire component</Link>
 
                         </li>
-                            <li className="nav-items">
+
+                        <li className="nav-items">
                         <Link className="nav-link" to={'/Quotes'}>Quotes component</Link>
                         </li>
                     </ul>
